@@ -41,5 +41,5 @@
 <h3> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Onde me encontrar: </h3> 
 
 [![Linkedin: Allan Nunes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-vieira-nunes-73a38296/)](https://www.linkedin.com/in/allan-vieira-nunes-73a38296/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.vieira06@gmail.com)](mailto:allan.vieira06@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-allan.vieira06@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.vieira06@gmail.com)](mailto:allan.vieira06@gmail.com)
 [![GitHub allannunes06]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/allannunes06)
